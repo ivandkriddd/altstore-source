@@ -1,0 +1,27 @@
+{
+  "name": "dwx's stuff altstore repository",
+  "subtitle": "My apps for AltStore",
+  "description": "A source for my apps.",
+  "iconURL": "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/source-icon.png",
+  "website": "https://github.com/ivandkriddd",
+  "apps": [
+    {
+      "name": "SnapMSG",
+      "bundleIdentifier": "im.snapmsg.snapmsg",
+      "developerName": "dwx",
+      "subtitle": "SnapMSG for iOS",
+      "localizedDescription": "A messaging app",
+      "iconURL": "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/app-icon.png",
+      "tintColor": "#4185A9",
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2026-10-10",
+          "size": 12345678,
+          "downloadURL": "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/MyApp.ipa",
+          "localizedDescription": "Updated some things"
+        }
+      ]
+    }
+  ]
+}
